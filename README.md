@@ -29,15 +29,16 @@ Una aplicación web SPA desarrollada con React y Vite que permite buscar cartas 
 ## Estructura del proyecto
 
 /src
-├── App.jsx                      ===#===              Componente principal
-├── main.jsx                     ===#===                  Punto de entrada
-├── estilos.css                  ===#===       Estilo general (modo oscuro)
-└── Componentes/
-├── Buscador.jsx                 ===#===             Formulario de búsqueda
-├── Resultados.jsx               ===#===            Visualización de cartas
-└── Historial.jsx                ===#===             Historial de búsquedas
+App.jsx                      ===#===              Componente principal
+main.jsx                     ===#===                  Punto de entrada
+estilos.css                  ===#===       Estilo general (modo oscuro)
+Componentes/
+Buscador.jsx                 ===#===             Formulario de búsqueda
+Resultados.jsx               ===#===            Visualización de cartas
+Historial.jsx                ===#===             Historial de búsquedas
+
 public/
-└── index.html                   ===#===                Documento HTML base
+index.html                   ===#===                Documento HTML base
 
 --------------------------------------------------------------------------
 
