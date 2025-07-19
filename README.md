@@ -33,7 +33,7 @@ Una aplicación web SPA desarrollada con React y Vite que permite buscar cartas 
 - main.jsx                     ===#===                  Punto de entrada
 - estilos.css                  ===#===       Estilo general (modo oscuro)
 
-- Componentes/
+- /Componentes
 - Buscador.jsx                 ===#===             Formulario de búsqueda
 - Resultados.jsx               ===#===            Visualización de cartas
 - Historial.jsx                ===#===             Historial de búsquedas
